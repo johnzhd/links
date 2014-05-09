@@ -18,3 +18,9 @@ info: http://www.52ml.net/14539.html
 algothm: http://blog.jobbole.com/67348/
 
 Advanced Data Structures: http://courses.csail.mit.edu/6.851/
+
+memory: http://www.ibm.com/developerworks/cn/linux/l-cn-ppp/index6.html
+
+https://lkml.org/
+
+tools: http://typeof.net/c/cn-scott-hanselmans-2014-ultimate-developer-and-power-user-s-tool-list-for-windows.html
