@@ -24,3 +24,5 @@ memory: http://www.ibm.com/developerworks/cn/linux/l-cn-ppp/index6.html
 https://lkml.org/
 
 tools: http://typeof.net/c/cn-scott-hanselmans-2014-ultimate-developer-and-power-user-s-tool-list-for-windows.html
+
+c++11: http://codexpert.ro/blog/2014/05/07/five-new-algorithms-to-cpp11-you-should-know-about/
