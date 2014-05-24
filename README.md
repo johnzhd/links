@@ -26,3 +26,7 @@ https://lkml.org/
 tools: http://typeof.net/c/cn-scott-hanselmans-2014-ultimate-developer-and-power-user-s-tool-list-for-windows.html
 
 c++11: http://codexpert.ro/blog/2014/05/07/five-new-algorithms-to-cpp11-you-should-know-about/
+
+crypt: http://www.cryptopp.com/
+
+protocal: http://www.w3.org/Protocols/rfc2616/rfc2616.html
