@@ -32,3 +32,6 @@ crypt: http://www.cryptopp.com/
 protocal: http://www.w3.org/Protocols/rfc2616/rfc2616.html
 
 source: http://web.mit.edu/~emin/www.old/source_code/cpp_trees/index.html
+
+funny c: http://www.ahalei.com/portal.php
+
