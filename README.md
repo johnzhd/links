@@ -42,3 +42,6 @@ http5&app:
 http://cordova.apache.org/
 http://phonegap.com/
 http://www.sencha.com/
+
+api文档阅读
+win: http://velocity.silverlakesoftware.com/
