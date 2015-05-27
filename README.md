@@ -45,3 +45,7 @@ http://www.sencha.com/
 
 api文档阅读
 win: http://velocity.silverlakesoftware.com/
+
+redis:
+https://github.com/MSOpenTech/redis
+https://redis.io/
