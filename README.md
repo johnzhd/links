@@ -42,6 +42,7 @@ http5&app:
 http://cordova.apache.org/
 http://phonegap.com/
 http://www.sencha.com/
+http://techslides.com/best-mobile-frameworks-and-platforms-for-hybrid-html5-apps
 
 api文档阅读
 win: http://velocity.silverlakesoftware.com/
