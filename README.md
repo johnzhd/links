@@ -50,3 +50,6 @@ win: http://velocity.silverlakesoftware.com/
 redis:
 https://github.com/MSOpenTech/redis
 https://redis.io/
+
+git:
+http://gitbook.liuhui998.com/index.html
