@@ -53,3 +53,6 @@ https://redis.io/
 
 git:
 http://gitbook.liuhui998.com/index.html
+
+openssl:
+https://www.ssllabs.com/ssltest/viewClient.html?name=OpenSSL&version=1.0.1l
