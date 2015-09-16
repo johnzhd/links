@@ -1,4 +1,4 @@
-links
+﻿links
 =====
 
 GNU linux
@@ -60,4 +60,8 @@ http://gitbook.liuhui998.com/index.html
 openssl:
 https://www.ssllabs.com/ssltest/viewClient.html?name=OpenSSL&version=1.0.1l
 
-iocp：https://msdn.microsoft.com/en-us/library/windows/desktop/ms686353(v=vs.85).aspx
+async: 
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms686353(v=vs.85).aspx
+
+emacs:
+http://www.gnu.org/software/emacs/tour/
