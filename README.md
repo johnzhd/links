@@ -65,3 +65,7 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/ms686353(v=vs.85).aspx
 
 emacs:
 http://www.gnu.org/software/emacs/tour/
+
+
+python libs:
+http://www.36dsj.com/archives/36417
